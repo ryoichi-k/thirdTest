@@ -1,0 +1,8 @@
+# Mac時のフォルダ階層や容量、アイコン情報など
+.DS_Store
+# JSの開発用ライブラリファイル(200MB/40000ファイル)
+/node_modules
+# 全てのpsdファイル(40MBなど)
+*.psd
+
+test.txt
